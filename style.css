@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Tahoma;
+  font-weight: bolder;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  text-shadow: 1px 1px 0px #ffffff;
+  font-size: larger;
+}
+
+#title {
+  color: rgb(255, 221, 2);
+  background-color: rgb(59, 58, 58);
+  border: none;
+  border-radius: 10px;
+  width: 500px;
+}
+#container {
+  width: 50%;
+  height: 50vh;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 5%;
+  background-color: rgb(238, 189, 63);
+  color: rgb(0, 0, 0);
+  box-shadow: inset 4px 4px 5px rgb(65, 65, 65), 4px 4px 5px rgb(101, 101, 101);
+}
+label {
+  text-align: left;
+}
+input {
+  width: 10rem;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  font-weight: bolder;
+  float: right;
+  box-shadow: inset 1px 1px 1px rgb(136, 136, 136),
+    inset 1px 1px 5px rgb(101, 101, 101);
+}
+input::placeholder {
+  text-align: center;
+  font-family: monospace;
+}
