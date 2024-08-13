@@ -19,16 +19,16 @@ Welcome to the **Temperature Converter**! This simple yet powerful tool allows y
 
 3. The converter will automatically display the corresponding values in the other two units.
 
-##Example
+## Example
 If you input 25°C, the converter will automatically calculate and display:
 
-###Fahrenheit: 77°F
-###Kelvin: 298.15K
+### Fahrenheit: 77°F
+### Kelvin: 298.15K
 
-##Technologies Used
+## Technologies Used
 HTML
 CSS
 JavaScript
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have suggestions for improvements or additional features, feel free to create an issue or submit a pull request.
