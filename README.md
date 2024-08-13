@@ -13,7 +13,7 @@ Welcome to the **Temperature Converter**! This simple yet powerful tool allows y
 
 ## How to Use
 
-1. Open the index.html file in your web browser.
+1. Open  https://sampeterberg.github.io/Temperature-Calculator/ in your web browser.
 
 2. Input a temperature in either Kelvin, Celsius, or Fahrenheit.
 
